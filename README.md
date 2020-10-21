@@ -6,3 +6,4 @@ During the period, some German grammar will be uploaded, and some experience may
 
 Although Github provides a Page, I am too lazy to use it.
 
+work harder, study harder.
