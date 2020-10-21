@@ -87,11 +87,15 @@ Take another look at the various articles and personal pronouns in the dative.
 | sie        | ihnen  |
 | Sie        | Ihnen  |
 
- 
-
-Grammatical terms in German:der Dativ: In German there are four different forms or categories of nouns (cases) called *Fälle* or *Kasus.* As well as nominative and accusative, there is also dative. Nouns take this case, for example, when they follow certain prepositions or they are the object of a verb that takes the dative. The articles have the forms: *dem/einem, der/einer, dem/einem, den/-*. In the plural, an *-n* is often added to the noun.das Personalpronomen: Personal pronouns refer to people or things. The words *ich,* *du* and *Sie*are examples of personal pronouns.
 
 
+##### Grammatical terms in German:
+
+der Dativ: In German there are four different forms or categories of nouns (cases) called *Fälle* or *Kasus.* As well as nominative and accusative, there is also dative. Nouns take this case, for example, when they follow certain prepositions or they are the object of a verb that takes the dative. The articles have the forms: *dem/einem, der/einer, dem/einem, den/-*. In the plural, an *-n* is often added to the noun.
+
+das Personalpronomen: Personal pronouns refer to people or things. The words *ich,* *du* and *Sie*are examples of personal pronouns.
+
+## Prepositions: bei, mit
 
 ## Prepositions: bei, mit
 
