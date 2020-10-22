@@ -62,3 +62,76 @@ If the adjective ends in *-t*, *-d*, *-s*, *-z*, *-ß*, *-sch* or *-x*, the endi
 
 Grammatical terms in German:Positiv: The positive is the basic form of the adjective. It describes characteristics of people or things, e.g. *schnell*, *warm*, *gut*.Komparativ: The comparative is the form of the adjective used to express a difference, e.g. *schneller*, *wärmer*, *besser*.Superlativ: The superlative is the highest form of the adjective. This form expresses that a person or thing possesses the highest level of a quality, e.g. *am schnellsten*, *am wärmsten*, *am besten*.
 
+
+
+## Comparison
+
+**Revision: irregular comparison**
+
+Here you'll find an overview of the most important irrgeular comparative forms.
+
+**Adjectives ending in** ***-el*** **and** ***-er***
+
+All adjectives ending in *-el* and many adjectives ending in *-er* lose the -*e-* in the comparative before the comparative ending. The superlative is formed regularly.
+
+- *dunk***e**l < **dunkler** *< am dunk***e**lsten
+- *teu***e**r < **teurer** *< am teu***e**rsten
+
+ 
+
+*Die Wohnung am Stadtrand ist **teuer**.
+Die Wohnung im Zentrum ist **teurer**.
+Das Haus am Meer ist **am teuersten**.*
+
+ 
+
+***nah/nahe*** **and** ***hoch***
+
+The adjectives *nah(e)* and *hoch* have irregular forms:
+
+*nah(e) < näher < am nä***c**hsten
+ho***c***h < höher < am hö***c***hsten
+
+ 
+
+*Die Miete für das Zimmer ist **hoch**.
+Die Miete für die Wohnung ist **höher**.
+Die Miete für das Haus ist **am höchsten**.*
+
+ 
+
+*****The adjectives *nah* and *nahe* have the same meaning. They are two variants of the same word.
+
+ 
+
+***gern*****,** ***gut*****,** ***viel***
+
+The comparative forms of *gern*, *gut* and *viel* are completely irregular.
+
+ 
+
+| Form         | Example       |
+| ------------ | ------------- |
+| Positive:    | *gern*        |
+| Comparative: | *lieber*      |
+| Superlative: | *am liebsten* |
+
+ 
+
+ 
+
+| Form         | Example     |
+| ------------ | ----------- |
+| Positive:    | *gut*       |
+| Comparative: | *besser*    |
+| Superlative: | *am besten* |
+
+ 
+
+ 
+
+| Form         | Example      |
+| ------------ | ------------ |
+| Positive:    | *viel*       |
+| Comparative: | *mehr*       |
+| Superlative: | *am meisten* |
