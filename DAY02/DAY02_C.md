@@ -99,7 +99,7 @@ das Personalpronomen: Personal pronouns refer to people or things. The words *ic
 
 ## Prepositions: bei, mit
 
-**Prepositions with the dative:** ***bei\*****,** ***mit\***
+**Prepositions with the dative:** ***bei*****,** ***mit***
 
 The prepositions *bei* and *mit* always take the dative. The dative can be in the form of a noun with an article or in the form of a personal pronoun after the preposition.
 

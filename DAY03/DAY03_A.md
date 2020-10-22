@@ -20,33 +20,33 @@ You already know the endings of the adjectives in the nominative and the accusat
 
 Nominative
 
-| der Mantel: | der schwarz***e\*** Mantel |
-| ----------- | -------------------------- |
-| die Hose:   | die braun***e\*** Hose     |
-| das Hemd:   | das weiß***e\*** Hemd      |
-| die Schuhe: | die neu***en\*** Schuhe    |
+| der Mantel: | der schwarz***e*** Mantel |
+| ----------- | ------------------------- |
+| die Hose:   | die braun***e*** Hose     |
+| das Hemd:   | das weiß***e*** Hemd      |
+| die Schuhe: | die neu***en*** Schuhe    |
 
  
 
 Accusative
 
-| den Mantel: | den schwarz***en\*** Mantel |
-| ----------- | --------------------------- |
-| die Hose:   | die braun***e\*** Hose      |
-| das Hemd:   | das weiß***e\*** Hemd       |
-| die Schuhe: | die neu***en\*** Schuhe     |
+| den Mantel: | den schwarz***en*** Mantel |
+| ----------- | -------------------------- |
+| die Hose:   | die braun***e*** Hose      |
+| das Hemd:   | das weiß***e*** Hemd       |
+| die Schuhe: | die neu***en*** Schuhe     |
 
-##  
+## Adjective endings in the dative are simple: 
 
-Adjective endings in the dative are simple: All adjectives have the ending *-en*.
+All adjectives have the ending *-en*.
 
 Dative
 
-| dem Mantel:      | dem schwarz***en\*** Mantel  |
-| ---------------- | ---------------------------- |
-| der Hose:        | der braun***en\*** Hose      |
-| dem Hemd:        | dem weiß***en\*** Hemd       |
-| den Schuhe**n**: | den neu***en\*** Schuhe**n** |
+| dem Mantel:      | dem schwarz***en*** Mantel  |
+| ---------------- | --------------------------- |
+| der Hose:        | der braun***en*** Hose      |
+| dem Hemd:        | dem weiß***en*** Hemd       |
+| den Schuhe**n**: | den neu***en*** Schuhe**n** |
 
 
 
@@ -59,6 +59,8 @@ Dative
 If a noun has no article, the adjective takes the ending of a definite article.
 
 ![image-20201021162048725](/Users/sunglo/Library/Application Support/typora-user-images/image-20201021162048725.png)
+
+
 
 Nominative
 

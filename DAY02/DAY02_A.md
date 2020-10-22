@@ -16,7 +16,7 @@ That means ...
 *Nicos Eltern sind wütend, weil er nicht mehr studieren **will**.*
 
 ... in the present perfect tense:
-**The conjugated form of \*haben\*** **or** ***sein\*** is at the end, after the past participle.
+**The conjugated form of *haben*** **or** ***sein*** is at the end, after the past participle.
 *Nico freut sich, weil Yara ihm ein Fahrrad geschenkt **hat**.*
 
 ... for separable verbs:
